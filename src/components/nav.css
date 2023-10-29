@@ -1,0 +1,18 @@
+#title {
+  font-size: 90px;
+  text-decoration: none;
+}
+/* .menu {
+  background-color: #f5f5f5;
+} */
+.table {
+  background-color: #75abd2;
+  width: 20%;
+  height: auto;
+  text-align: center;
+  color: #ffffff;
+  margin: 0px;
+  padding-top: 0px;
+  padding: 20px;
+  float: left;
+}
